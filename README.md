@@ -1,0 +1,1 @@
+# Smart-iventory-solution.
